@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PoliceDepartment()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ PoliceDepartment\r\n
+comment1.params=newDepartmentLocation
+comment1.target=PoliceDepartment(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PoliceDepartment\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDepartmentLocation()
+comment2.text=\r\n\ Accessor\ Method\ for\ departmentLocation\r\n\ @return\ departmentLocation\r\n
+comment3.params=newDepartmentLocation
+comment3.target=void\ setDepartmentLocation(java.lang.String)
+comment3.text=\r\n\ Mutator\ method\ for\ departmentLocation\r\n\ @return\ departmentLocation\r\n
+comment4.params=newPoliceOfficer
+comment4.target=void\ addPoliceOfficer(PoliceOfficer)
+comment4.text=\r\n\ Method\ to\ add\ PoliceOfficer\ -\ must\ not\ equal\ null\r\n
+comment5.params=officerName
+comment5.target=java.util.ArrayList\ getAllTicketsByOfficer(java.lang.String)
+comment5.text=\r\n\ Method\ to\ search\ through\ the\ arraylist\ of\ parking\ tickets\ associated\ with\ the\ police\ officer\r\n
+comment6.params=
+comment6.target=int\ calculateTotalFines()
+comment6.text=\r\n\ Method\ to\ calculate\ total\ amount\ of\ fines\ of\ all\ the\ parking\ tickets\ issued\ by\ all\ officers\r\n\ @return\ totalFine\r\n
+comment7.params=licenseNumber
+comment7.target=int\ calculateTicketsOfACar(java.lang.String)
+comment7.text=\r\n\ Method\ to\ search\ all\ tickets\ using\ a\ parked\ car\ license\ number\r\n\ issued\ by\ any\ officers\ in\ the\ department\r\n\ @return\ totalTicketsOfParkedCar\r\n
+numComments=8
